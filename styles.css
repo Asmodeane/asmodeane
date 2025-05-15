@@ -53,6 +53,7 @@ footer {
 
 @media (max-width: 600px) {
   nav .nav-list {
+    align-items: flex-end;
     flex-direction: column;
     gap: 1em;
   }
